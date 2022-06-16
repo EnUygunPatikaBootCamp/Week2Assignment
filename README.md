@@ -1,11 +1,19 @@
-# Week1Assignment
+# Week2Assignment
 
 ## ARAŞTIRMA KONUSU (20 puan)
 Aşağıdaki bağlantıda yer alan isimlendirme geleneklerinin (naming conventions) arasındaki farkları belirten bir paragraflık yazı yazınız. İfadeleri kendi araştırmalarınız sonucunda yazmanız beklenmektedir.
 
 https://www.theserverside.com/answer/Pascal-case-vs-camel-case-Whats-the-difference
 
-## OBJECT ORIENTED PROGRAMMING (80 puan)
+## LINUX COMMANDS (4 x 5 = 20 puan)
+Aşağıdaki linux komutlarını birer cümleyle açıklayınız
+tail
+cat
+sudo
+touch
+mkdir
+
+## OBJECT ORIENTED PROGRAMMING (60 puan)
 -	Taşıtlarla ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.
 plakaNo, marka, model, tekerlekSayisi, kanatAcikligi
 -	Taşıtılara alternatif olarak üç tane sınıf oluşturulmalıdır:
