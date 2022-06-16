@@ -7,6 +7,7 @@ https://www.theserverside.com/answer/Pascal-case-vs-camel-case-Whats-the-differe
 
 ## LINUX COMMANDS (4 x 5 = 20 puan)
 Aşağıdaki linux komutlarını birer cümleyle açıklayınız
+
 tail\
 cat\
 sudo\
