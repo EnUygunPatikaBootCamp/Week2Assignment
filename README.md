@@ -2,20 +2,21 @@
 
 ## ARAŞTIRMA KONUSU (20 puan)
 Aşağıdaki bağlantıda yer alan isimlendirme geleneklerinin (naming conventions) arasındaki farkları belirten bir paragraflık yazı yazınız. İfadeleri kendi araştırmalarınız sonucunda yazmanız beklenmektedir.
+
 https://www.theserverside.com/answer/Pascal-case-vs-camel-case-Whats-the-difference
 
 ## OBJECT ORIENTED PROGRAMMING (80 puan)
-•	Taşıtlarla ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.
+-	Taşıtlarla ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.
 plakaNo, marka, model, tekerlekSayisi, kanatAcikligi
-•	Taşıtılara alternatif olarak üç tane sınıf oluşturulmalıdır:
+-	Taşıtılara alternatif olarak üç tane sınıf oluşturulmalıdır:
 araba, motorsiklet, uçak
-•	Oluşturulan bu sınıflara yukarıda tanımlanan öznitelikler (property) değer olarak girilmeli, aşağıdaki gibi ekrana bastırabilmelidir:
+-	Oluşturulan bu sınıflara yukarıda tanımlanan öznitelikler (property) değer olarak girilmeli, aşağıdaki gibi ekrana bastırabilmelidir:
 
 Araba taşıtına ait öznitelikler şu şekildedir:
-Plaka No: 06 ARAC 06
-Marka: Mercedes
-Model: C180
-Tekerlek Sayısı: 4
+ Plaka No: 06 ARAC 06
+ Marka: Mercedes
+ Model: C180
+ Tekerlek Sayısı: 4
 
 Motorsiklet taşıtına ait öznitelikler şu şekildedir:
 Plaka No: 06 MOTOR 06
