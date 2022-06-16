@@ -13,21 +13,21 @@ araba, motorsiklet, uçak
 -	Oluşturulan bu sınıflara yukarıda tanımlanan öznitelikler (property) değer olarak girilmeli, aşağıdaki gibi ekrana bastırabilmelidir:
 
 Araba taşıtına ait öznitelikler şu şekildedir:
--Plaka No: 06 ARAC 06
--Marka: Mercedes
--Model: C180
--Tekerlek Sayısı: 4
+- Plaka No: 06 ARAC 06
+- Marka: Mercedes
+- Model: C180
+- Tekerlek Sayısı: 4
 
 Motorsiklet taşıtına ait öznitelikler şu şekildedir:
--Plaka No: 06 MOTOR 06
--Marka: Honda
--Model: Forza 750
--Tekerlek Sayısı: 2
+- Plaka No: 06 MOTOR 06
+- Marka: Honda
+- Model: Forza 750
+- Tekerlek Sayısı: 2
 
 Uçak taşıtına ait öznitelikler şu şekildedir:
--Marka: Airbus
--Model: A380
--Kanat Açıklığı: 80m
+- Marka: Airbus
+- Model: A380
+- Kanat Açıklığı: 80m
 
 Yukarıda verilen değerler örnektir. Değerler her taşıt için rastgele girilebilir.
 
