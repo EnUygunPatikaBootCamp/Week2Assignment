@@ -12,7 +12,7 @@ tail\
 cat\
 sudo\
 touch\
-mkdir\
+mkdir
 
 ## OBJECT ORIENTED PROGRAMMING (60 puan)
 -	Taşıtlarla ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.
